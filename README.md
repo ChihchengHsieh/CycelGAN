@@ -10,6 +10,7 @@
 
 ## Other results 
 #### (This model has to be tuned to get a better result)
+Grouth truth -> to another season -> transfer back 
 ![](https://github.com/ChihchengHsieh/CycelGAN/blob/master/img/6.png)
 ![](https://github.com/ChihchengHsieh/CycelGAN/blob/master/img/7.png)
 
