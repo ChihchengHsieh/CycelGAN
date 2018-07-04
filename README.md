@@ -11,10 +11,8 @@
 ## Other results 
 #### (This model has to be tuned to get a better result)
 Grouth truth -> to another season -> transfer back 
-![](https://github.com/ChihchengHsieh/CycelGAN/blob/master/img/6.png)
-![](https://github.com/ChihchengHsieh/CycelGAN/blob/master/img/7.png)
+![](https://github.com/ChihchengHsieh/CycleGAN/blob/master/img/CycleGAN_Step_1900.png?raw=true)
+![](https://github.com/ChihchengHsieh/CycleGAN/blob/master/img/Screen%20Shot%202018-07-04%20at%205.51.44%20pm.png?raw=true)
 
-## Wondering
-Do we need a sigmoid function at the last layer of PatchGAN Discriminator?
 
 
